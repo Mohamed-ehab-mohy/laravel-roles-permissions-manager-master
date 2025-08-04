@@ -71,6 +71,9 @@ This project is open-source and available under the MIT License.
 Feel free to contribute or customize the project for your needs.
 
 
----
+---## 📸 Screenshot
 
-If you want to include more details (e.g. screenshots, contribution guidelines), just let me know!
+Here is a preview of the database structure and the admin dashboard:
+
+![Screenshot](test.png)
+
